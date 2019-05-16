@@ -1,1 +1,1 @@
-# JenkinsStarterApps
+# JenkinsStarterApp
